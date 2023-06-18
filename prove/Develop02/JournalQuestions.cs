@@ -61,7 +61,7 @@ public class JournalQuestions
     }   
 
     // save the Journal to a text file
-     public void SaveJournal()
+    public void SaveJournal()
     {
         // define the file name
         string filename;
