@@ -24,9 +24,4 @@
             Console.WriteLine($"{_entryResponse}");
             Console.WriteLine("");
         }
-
-        public void SaveEntry()
-        {
-
-        }
     }
