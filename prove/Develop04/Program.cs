@@ -6,7 +6,7 @@ class Program
     {
         // Define Variables
         // Build Menu, instance type and xecutable
-        string [][] menu = new string[][] {new string [] {"Breathing","Exersise","Reflection","Listing","Quit"}, new string []{"BreathingActivity","ExersiseActivity","ReflectingActivity","ListingActivity","Exit"}}; 
+        string [][] menu = new string[][] {new string [] {"Breathing","Exercise","Reflection","Listing","Quit"}, new string []{"BreathingActivity","ExerciseActivity","ReflectingActivity","ListingActivity","Exit"}}; 
         // rtvalue dtermins if we are exiting the program or not
         bool rtvalue = true;
         // the command number we are running 
