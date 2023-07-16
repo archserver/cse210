@@ -54,7 +54,7 @@ public class Program
         // 5 Edit People
                 //Add a new person
                 //Edit an existing person
-                //Delete a person
+                //Delete a person....
 
 
 //        Application.EnableVisualStyles();
