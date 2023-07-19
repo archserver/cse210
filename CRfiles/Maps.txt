@@ -1,0 +1,3 @@
+Beaumont~76489 Nowhere St~NaturalGas;Methane;Oxygen~5000~Beaumont.jpeg~GC
+CleanAmmonia~875765 Anywhere Ln~Ammonia;NaturalGas~1000~CleanAmmonia.jpeg~AC
+NatGasoline~7653 Everywhere Dr~NaturalGas;Methane~500~NatGasoline.jpeg~BC
